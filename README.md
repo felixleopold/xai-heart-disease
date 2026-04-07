@@ -4,6 +4,8 @@ Comparing SHAP and Partial Dependence Plots on a heart disease prediction model.
 
 ## Setup
 
+Requires Python 3.12.
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
@@ -18,5 +20,4 @@ Open `code/assignment.ipynb` and run all cells.
 
 - `code/assignment.ipynb` — notebook with all code and plots
 - `code/data/heart.csv` — dataset
-- `report/final-report.tex` — LaTeX source for the report
 - `report/final-report.pdf` — compiled report
